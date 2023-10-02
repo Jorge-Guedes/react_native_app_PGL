@@ -1,0 +1,251 @@
+[
+  {
+    "name": "Ac/dc Rock Or Burst 56Cl Lata",
+    "img": "https://www.cervezasonline.com/3502-large_default/acdc-rock-or-burst-56cl-lata.jpg",
+    "category": "Lager/Pils",
+    "color": "Rubia",
+    "origin": "Alemania",
+    "type": "Lager/Doppelbock",
+    "tone": "Rubia",
+    "alcohol": "Baja(3-5º)",
+    "description": "La cerveza AC/DC Rock or Bust es una cerveza alemana elaborada en honor a la legendaria banda de rock AC/DC. Fabricada por la cervecería alemana Karlsberg, esta cerveza es una celebración de la música rock y de la pasión por la cerveza. Desde su lanzamiento en 2015, la cerveza AC/DC Rock or Bust ha sido muy popular entre los fans de la banda y los amantes de la cerveza en todo el mundo."
+  },
+  {
+    "name": "B&amp;b Celestial Sin Helles 33Cl Lata",
+    "img": "https://www.cervezasonline.com/4057-large_default/bb-celestial-sin-helles-33cl-lata.jpg",
+    "category": "Lager/Pils",
+    "color": "Rubia",
+    "origin": "Francia",
+    "type": "Lager/Pils",
+    "tone": "Rubia",
+    "alcohol": "Muy baja(0-3º)",
+    "description": "Color dorado con espuma blanquecina cremosa y muy persistente. El aroma, que recuerda a pan y cereal proviene del protagonismo de la malta Munich y el frescor de la levadura con un toque floral proveniente del lúpulo Saaz. El amargor es muy bajo, predominando el sabor a cereal sin llegar a ser dulce. El cuerpo es medio, el final en boca es suave con carbonatación moderada"
+  },
+  {
+    "name": "Gordon Gin Spices Xplosion Lata 50Cl",
+    "img": "https://www.cervezasonline.com/2352-large_default/gordon-gin-spices-xplosion-lata-50cl.jpg",
+    "category": "Aromatizada",
+    "color": "Rubia",
+    "origin": "Bélgica",
+    "type": "Especial",
+    "tone": "Rubio dorado",
+    "alcohol": "Muy alta(9-12º)",
+    "description": "Una sorprendente mezcla de Gordon Finest Beers y aromas de ginebra. Fuerte, sabrosa y picante"
+  },
+  {
+    "name": "Gordon Red Fruit Xplosion Lata 50Cl",
+    "img": "https://www.cervezasonline.com/2354-large_default/gordon-red-fruit-xplosion-lata-50cl.jpg",
+    "category": "Aromatizada",
+    "color": "Roja",
+    "origin": "Bélgica",
+    "type": "Especial",
+    "tone": "Rojo cereza",
+    "alcohol": "Muy alta(9-12º)",
+    "description": "Un aroma afrutado muy agradable. Una sensación sabrosa cerveza, fuerte y refrescante"
+  },
+  {
+    "name": "Gordon Finest Gold Lata 33Cl",
+    "img": "https://www.cervezasonline.com/38-large_default/gordon-finest-gold-lata-33cl.jpg",
+    "category": "Lager/Pils",
+    "color": "Rubia",
+    "origin": "Bélgica",
+    "type": "Lager/Pils",
+    "tone": "Rubia",
+    "alcohol": "Muy alta(9-12º)",
+    "description": "La cerveza Gordon Finest Gold es una cerveza belga de alta fermentación producida por la fábrica John Martin desde 1924. Esta cerveza, de color dorado y con una graduación alcohólica del 10%, se destaca por su sabor suave y equilibrado."
+  },
+  {
+    "name": "Super Bock Lata 33Cl",
+    "img": "https://www.cervezasonline.com/483-large_default/super-bock-lata-33cl.jpg",
+    "category": "Lager/Pils",
+    "color": "Rubia",
+    "origin": "Portugal",
+    "type": "Lager/Pils",
+    "tone": "Dorado brillante",
+    "alcohol": "Media(5-7º)",
+    "description": "Super Bock es una cerveza portuguesa que se ha ganado un lugar especial en el mercado internacional gracias a su calidad y sabor excepcional. Esta cerveza es producida por una de las cervecerías más grandes de Portugal, y se ha consolidado como una de las cervezas más populares del país desde su lanzamiento en 1927. A lo largo de los años, Super Bock ha evolucionado en su estilo y sabor, sin embargo, siempre ha mantenido su compromiso con la calidad y la innovación en su elaboración. En este artículo, se describirán las características de esta cerveza, su método de fabricación, ingredientes, maridajes recomendados, premios ganados y curiosidades."
+  },
+  {
+    "name": "Guinness Draught Surger Lata 33CL",
+    "img": "https://www.cervezasonline.com/2347-large_default/guinness-draught-surger-lata-33cl.jpg",
+    "category": "Negra",
+    "color": "Negra",
+    "origin": "Irlanda",
+    "type": "Stout",
+    "tone": "Negro intenso",
+    "alcohol": "Baja(3-5º)",
+    "description": "Para servir la cerveza a presión en su establecimiento, Guinness® inventó en 2006 el Surger. Se trata de un aparato sencillo e ingenioso que permite servirla igual que si se tirara del barril. <br />Mediante el envío de una onda sonora, como por arte de magia, aparece una espuma abundante con todo su atractivo.<br />Más allá de cómo se sirva, una Guinness® es siempre una Guinness® : el mismo cuerpo bien armado, el mismo collarín blanco cremoso y, sobre todo, ¡ el mismo gusto reconocible por todos !"
+  },
+  {
+    "name": "La Virgen India Pale Ale Lata 33Cl",
+    "img": "https://www.cervezasonline.com/4573-large_default/la-virgen-india-pale-ale-lata-33cl.jpg",
+    "category": "IPA/APA",
+    "color": "Rubia",
+    "origin": "España",
+    "type": "Media(5-7º)",
+    "tone": "Rubia",
+    "description": "La cerveza La Virgen Indian Pale Ale es una de las cervezas artesanales más populares y reconocidas de la fábrica madrileña Cervezas La Virgen. Esta cerveza destaca por su intenso sabor amargo y afrutado, propio del estilo IPA, y por su elaboración con ingredientes de la mejor calidad. En este texto se describirán con detalle todas las características, curiosidades y hechos destacables sobre esta cerveza que ha conquistado el paladar de los amantes de la cerveza artesanal en todo el mundo. Es unacerveza lupulada en fresco con lúpulos citra y cascade para conseguir un sabor cítrico y resinoso. Su intenso sabor a lúpulo y equilibrio maltoso la hace una delicia para los cerveceros más exigentes. Disponible todo el año, para gozar día a día. Intenso sabor a lúpulo y equilibrio maltoso"
+  },
+  {
+    "name": "B&amp;B CELESTIAL SIN PASTRY 33CL LATA",
+    "img": "https://www.cervezasonline.com/3879-large_default/bb-celestial-sin-pastry-33cl-lata.jpg",
+    "category": "Negra",
+    "color": "Negra",
+    "origin": "España",
+    "type": "Stout",
+    "tone": "Muy baja(0-3º)",
+    "description": "Cerveza muy oscura con espuma tostada, cremosa y persistente. Tiene un sabor dulce que combina el chocolate, caramelo y café. Tiene un aroma con toques de café, chocolate, vainilla y caramelo. El amargor es muy bajo. El cuerpo es medio-alto, la carbonatación moderada y la sensación en boca es suave e intensa. Perfecta para combinar con carnes en salsas dulces y postres con vainilla, caramelo y chocolate."
+  },
+  {
+    "name": "ZETA DOUBLE EXPO LATA 44CL",
+    "img": "https://www.cervezasonline.com/2594-large_default/zeta-double-expo-lata-44cl.jpg",
+    "category": "IPA/APA",
+    "color": "Rubia",
+    "origin": "España",
+    "type": "Alta(7-9º)",
+    "tone": "Ámbar anaranjado turbio",
+    "description": "Cerveza turbia de color dorado anaranjado, con bastante cuerpo para balancear los 8% de alcohol y las cantidades masivas de lúpulos cryo y T9, utilizando la tecnica del DIP Hopping. Tambien se utiliza<br />un lúpulo nuevo TRI2304CR en formato cryo."
+  },
+  {
+    "name": "B&amp;b Celestial Sin Hoppy 33Cl Lata",
+    "img": "https://www.cervezasonline.com/4058-large_default/bb-celestial-sin-hoppy-33cl-lata.jpg",
+    "category": "Lager/Pils",
+    "color": "Rubia",
+    "origin": "España",
+    "type": "Hoppy Lager",
+    "tone": "Rubia",
+    "alcohol": "Muy baja(0-3º)",
+    "description": "Color dorado limpio con espuma blanquecina cremosa y muy persistente. El aroma es lúpulo, con toques resinosos y cítricos provenientes del lúpulo Simcoe. El amargor es bajo, con el sabor a malta balanceado por el aroma y sabor del lúpulo. El cuerpo es medio, el final en boca es suave, la carbonatación moderada."
+  },
+  {
+    "name": "Cerdos Voladores Saison Ipa Lata 33Cl",
+    "img": "https://www.cervezasonline.com/4050-large_default/cerdos-voladores-saison-ipa-lata-33cl.jpg",
+    "category": "IPA/APA",
+    "color": "Rubia",
+    "origin": "España",
+    "type": "Saison Ipa",
+    "tone": "Rubia",
+    "alcohol": "Baja(3-5º)",
+    "description": "La Cerveza Cerdos Voladores Indian Ale de la Barcelona Beer Company es una cerveza artesanal de estilo Indian Pale Ale, elaborada mediante un proceso de maceración y fermentación en frío. La cerveza se empezó a fabricar en el año 2012 y es uno de los productos más destacados de la marca."
+  },
+  {
+    "name": "Gordon Finest Gold Lata 50Cl",
+    "img": "https://www.cervezasonline.com/4162-large_default/gordon-finest-gold-lata-50cl.jpg",
+    "category": "Lager/Pils",
+    "color": "Rubia",
+    "origin": "Bélgica",
+    "type": "Lager/Pils",
+    "tone": "Rubia",
+    "alcohol": "Muy alta(9-12º)",
+    "description": "La cerveza Gordon Finest Gold es una cerveza belga de alta fermentación producida por la fábrica John Martin desde 1924. Esta cerveza, de color dorado y con una graduación alcohólica del 10%, se destaca por su sabor suave y equilibrado."
+  },
+  {
+    "name": "ZETA COLOR BOOST LATA 44 CL",
+    "img": "https://www.cervezasonline.com/2595-large_default/zeta-color-boost-lata-44-cl.jpg",
+    "category": "IPA/APA",
+    "color": "Rubia",
+    "origin": "España",
+    "type": "Artesanal",
+    "tone": "Ámbar anaranjado turbio",
+    "alcohol": "Baja(3-5º)",
+    "description": "Cerveza turbia de color dorado pálido, con mucho cuerpo debido al 100 % avena que contiene. Solo 4.5 % de alcohol y unas cantidades masivas de lúpulos cryo y T90 añadidos durante los diferentes procesos de elaboración, como el dry hopping."
+  },
+  {
+    "name": "Gordon Finest Titanium Lata 50Cl",
+    "img": "https://www.cervezasonline.com/1597-large_default/gordon-finest-titanium-lata-50cl.jpg",
+    "category": "Lager/Pils",
+    "color": "Rubia",
+    "origin": "Máxima(+12º)",
+    "type": "Lager/Pils",
+    "tone": "Rubia",
+    "description": "La última novedad del clan GORDON, se llama Gordon Finest Titanium y simplemente se define como una cerveza rubia extra extra extra extra fuerte."
+  },
+  {
+    "name": "Gordon Finest Platinum Lata 50Cl",
+    "img": "https://www.cervezasonline.com/707-large_default/gordon-finest-platinum-lata-50cl.jpg",
+    "category": "Lager/Pils",
+    "color": "Rubia",
+    "origin": "Bélgica",
+    "type": "Lager/Pils",
+    "tone": "Rubia",
+    "alcohol": "Máxima(+12º)",
+    "description": "La cerveza Gordon Finest Platinum es una cerveza belga de estilo Strong Pale Ale. Esta cerveza es el resultado de la combinación de los mejores ingredientes y la mejor tecnología cervecera, lo que resulta en una cerveza de alta calidad con un sabor exquisito. Se sitúa en la cima de la categoría de rubias fuertes. Su sensación es aterciopelada sobre un manto de ligero amargor. Es una cerveza densa en boca que relega a la garganta un carácter suplementario más severo con matices a madera, con cierto tono picante a nivel de lengua. Destaca su sabor alcoholizado que llega del paladar hasta el final de la boca, donde deja un largo y excelente recuerdo.<br />Imperativamente se debe consumir muy fría, a fin de preservar el peculiar sabor que tanto nos seduce."
+  },
+  {
+    "name": "Kasteel Nitro Noir Lata 30Cl",
+    "img": "https://www.cervezasonline.com/3533-large_default/kasteel-nitro-noir-lata-30cl.jpg",
+    "category": "Negra",
+    "color": "Negra",
+    "origin": "Bélgica",
+    "type": "Porter",
+    "tone": "Negra",
+    "alcohol": "Media(5-7º)",
+    "description": "La cerveza Kasteel Nitro Noir es una cerveza de estilo Belgian Strong Dark Ale, fabricada por Brouwerij Van Honsebrouck en Bélgica. Esta cerveza es única por su técnica de dispensación de nitrógeno, lo que crea una suave y sedosa espuma en la cerveza, dando lugar a una experiencia de degustación única."
+  },
+  {
+    "name": "Guinness 8 Special Export lata 50Cl",
+    "img": "https://www.cervezasonline.com/2346-large_default/guinness-8-special-export-lata-50cl.jpg",
+    "category": "Negra",
+    "color": "Negra",
+    "origin": "Irlanda",
+    "type": "Stout",
+    "tone": "Negro intenso",
+    "alcohol": "Alta(7-9º)",
+    "description": "Con la riqueza que le aportan 250 años de historia, la Guinness® es indisociable de Irlanda, excepto en esta versión también denominada GXS, y elaborada por Arthur Guinness exclusivamente para John Martin. Las particularidades del gusto son similares a las de su prima irlandesa tradicional, pero a un nivel mucho más denso, especialmente por su grado de alcohol del 8%, que hace explotar el sabor de la malta torrefactada y achicorada, sobre un amargor de madera ahumada y regaliz, dejando un retrogusto muy prolongado. Está casi desprovista de azúcares y por eso, tras una maduración de unas semanas, presenta virtudes nutritivas y naturales sanas para el organismo."
+  },
+  {
+    "name": "Gordon Finest Carbon Lata 50Cl",
+    "img": "https://www.cervezasonline.com/4393-large_default/gordon-finest-carbon-lata-50cl.jpg",
+    "category": "Lager/Pils",
+    "color": "Tostada",
+    "origin": "Bélgica",
+    "type": "Lager/Pils",
+    "tone": "Rubia",
+    "alcohol": "Máxima(+12º)",
+    "description": "Gordon Finest Carbon 14 es una cerveza con carácter y con un temperamento fuerte. Al igual que la materia carbón, esta cerveza Exxxtra fuerte en lata con una graduación alcohólica del 14,1% aúna fuerza y elegancia. Degustar una Gordon Finest Carbon 14 es una invitación a viajar. Esta cerveza le transporta a las tierras donde nació la marca, al pie de los acantilados escoceses batidos por las olas. Es recomendable degustarla con mucha moderación.Sabor: Aromas a malta, carácter amargo, consistente y cálido en el paladar, final ligeramente aromático."
+  },
+  {
+    "name": "ZETA CRYO CHROME LATA 44CL",
+    "img": "https://www.cervezasonline.com/2592-large_default/zeta-cryo-chrome-lata-44cl.jpg",
+    "category": "IPA/APA",
+    "color": "Rubia",
+    "origin": "España",
+    "type": "Artesanal",
+    "tone": "Amarillo turbio",
+    "alcohol": "Muy alta(9-12º)",
+    "description": "Cerveza triple IPA, turbia y de color dorado ambarino. Desborda su intensidad aromática inconfundible, a fruta madura y hierba recién segada. Sus 11,0 % de alcohol quedan perfectamente balanceados con un cuerpo abundante y el uso de lactosa.&nbsp;"
+  },
+  {
+    "name": "Gordon Finest Chrome Lata 50Cl",
+    "img": "https://www.cervezasonline.com/3669-large_default/gordon-finest-chrome-lata-50cl.jpg",
+    "category": "Lager/Pils",
+    "color": "Rubia",
+    "origin": "Bélgica",
+    "type": "Lager/Pils",
+    "tone": "Rubia",
+    "alcohol": "Muy alta(9-12º)",
+    "description": "La cerveza Gordon Finest Chrome Lata es una cerveza belga de alta calidad, elaborada por la cervecería John Martin desde el año 2004. Esta cerveza es una versión moderna de la cerveza clásica Gordon Finest, que ha sido producida por la misma cervecería desde 1924."
+  },
+  {
+    "name": "Zeta Hell Lata 44Cl",
+    "img": "https://www.cervezasonline.com/4129-large_default/zeta-hell-lata-44cl.jpg",
+    "category": "Lager/Pils",
+    "color": "Rubia",
+    "origin": "España",
+    "type": "Lager/Pils",
+    "tone": "Rubia",
+    "alcohol": "Media(5-7º)",
+    "description": "La cerveza Zeta Hell es una cerveza artesanal española de estilo Lager, elaborada por la cervecería valenciana Zeta Beer. Desde su fundación en 2011, esta cervecera se ha destacado por su compromiso con la calidad y la innovación en la elaboración de cervezas artesanales de alta calidad."
+  },
+  {
+    "name": "B&amp;b Celestial Sin Brown 33Cl Lata",
+    "img": "https://www.cervezasonline.com/4056-large_default/bb-celestial-sin-brown-33cl-lata.jpg",
+    "category": "Ale",
+    "color": "Tostada",
+    "origin": "España",
+    "type": "Brown Ale",
+    "tone": "Marrón",
+    "alcohol": "Muy baja(0-3º)",
+    "description": "Cerveza de color tostado con espuma tambien tostada y persistente. Su sabor combina el café, el caramelo y el dulce de malta. Tiene un aroma complejo donde destacan el caramelo tostado y el torrefacto. El amargor es muy bajo. El cuerpo es medio, carbonatación moderada y la sensación en boca es suave."
+  }
+]
